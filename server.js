@@ -1,6 +1,9 @@
 const express = require('express')
+const cors = require('cors')
 const app = express()
 const PORT = 8675
+
+app.use(cors())
 
 //The data are contained in the object called realms
 const realms = {

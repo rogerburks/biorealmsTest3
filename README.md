@@ -15,3 +15,5 @@ There is also a handy page here for finding the WWF terrestrial ecoregion that y
 https://www.arcgis.com/apps/View/index.html?appid=d60ec415febb4874ac5e0960a6a2e448
 
 I expect to overhaul this or eventually abandon it, depending on how capabilities and opportunities change.
+
+For countries that exist in more than one biogeographic realm, I list them both, with the one covering the largest proportion of territory in the country first. This is often easy, but in a few cases it is not. When two realms cover 50% each, I list the one with major ports first. For countries with overseas departments or states in other realms, I list them separately.

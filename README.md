@@ -1,6 +1,6 @@
 # Biorealms Test API
 
-Hosted simple API, currently in a testing stage, for retrieving a biogeographical realm name, using a country, dependency, or overseas area. Therefore, if you only have a country name, this is what you could use to get biogeographical realm names for it. If you have something more precise, such a latitude and longitude, you would not use this API.
+Hosted simple API, currently in a testing stage, for retrieving a biogeographical realm name, using a country, dependency, or overseas area. Therefore, if you only have a country name, this is what you could use to get biogeographical realm names for it. If you have something more precise, such as latitude and longitude, you would not use this API.
 
 The Global 200/WWF system is used, which can be browsed in a few places, such as:
 

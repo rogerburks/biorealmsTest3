@@ -118,7 +118,7 @@ const realms = {
     "bhutan": {
         "id": 19,
         "countryName": "Bhutan",
-        "realmName": "Palearctic"
+        "realmName": "Palearctic, Indomalayan"
     },
 
     "bolivia": {
@@ -1547,6 +1547,12 @@ const realms = {
         "id": 257,
         "countryName": "Easter Island",
         "realmName": "Oceanian"
+    },
+
+    "nepal": {
+        "id": 258,
+        "countryName": "Nepal",
+        "realmName": "Palearctic, Indomalayan"
     },
 
     "everything": {

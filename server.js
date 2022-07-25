@@ -82,7 +82,7 @@ const realms = {
     "bahrain": {
         "id": 13,
         "countryName": "Bahrain",
-        "realmName": "Afrotropical"
+        "realmName": "Palearctic"
     },
 
     "barbados": {
@@ -904,7 +904,7 @@ const realms = {
     "qatar": {
         "id": 150,
         "countryName": "Qatar",
-        "realmName": "Afrotropical"
+        "realmName": "Palearctic"
     },
 
     "romania": {

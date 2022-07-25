@@ -25,4 +25,4 @@ There is no perfect way to outline biogeographic realms. While most countries ar
 
 - Algeria: Many maps seemingly arbitrarily use a mostly straight line or a slight northern bulge to indicate transition in the southern tip to The Sahel, which is treated as Afrotropical. This line intersects some part near the southern corner of Algeria, probably with the intention of depicting part of the Adrar des Ifoghas mountain range, although I prefer to treat Algeria as entirely Palearctic.
 
-- Bahrain and Qatar: While certain maps indicate a linear division of the Arabian Peninsula between Afrotropical and Palearctic realms, ecoregion mapping unambiguously places Bahrain and Qatar in the Palearctic. 
+- Bahrain and Qatar: Certain maps indicate a linear division of the Arabian Peninsula between Afrotropical and Palearctic realms, this seemingly arbitrarily assigns Bahrain and Qatar to the Afrotropical realm. Ecoregion mapping unambiguously places Bahrain and Qatar in the Palearctic. 
